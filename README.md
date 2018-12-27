@@ -1,6 +1,6 @@
 # Chord-Identifier
 
-The objective of the chord identifier is to make use of machine learning to identify a chord or note played on a musical instrument, focussing on guitar and keyboard.
+The objective of the chord identifier is to make use of machine learning to identify a chord or note played on a musical instrument, focusing on guitar and keyboard.
 
 The software will also identify is the chord is being strummed upwards or downwards.
 
